@@ -6,8 +6,8 @@
 
 ## 1) Executive Summary
 
-- **What drives freight?**  
-  The primary continuous driver is **product weight (kg)**. On the merged Olist dataset, a Quasi-Poisson GLM indicates ~**+5.3% freight per +1 kg** (log-link coefficients converted to % per unit). **Distance (km)** also raises cost (e.g., **+~4% per +100 km**), while **more items per order** tends to **reduce freight per order** (economies of scale, e.g., **−~2% per extra item**).
+-What drives freight?
+The primary continuous driver is product weight (kg). On the merged Olist dataset, a Quasi-Poisson GLM indicates +5.3% freight per +1 kg (log-link coefficients converted to % per unit). Distance (km) also raises cost (e.g., +~4% per +100 km), while more items per order tends to reduce freight per order (economies of scale, e.g., **−2% per extra item**).
 
 - **Order-cycle trend:**  
   Quarter-by-status “mini” charts show **steady improvement** in lead times for **Delivered** and **Invoiced** statuses; **Canceled** orders exhibit higher lead times (consistent with service-level risk) but also improve over time.
