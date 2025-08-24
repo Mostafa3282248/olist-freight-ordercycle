@@ -192,3 +192,43 @@ pip install -r requirements.txt
 # python src/build_fast_moving.py
 # python src/make_excel_report.py
 
+
+## 📊 Lead-time minis (Quarter × Status)
+
+<p align="center"><b>Status: Delivered</b></p>
+<p align="center">
+  <img src="docs/leadtime_minis_delivered.png" width="85%" alt="Delivered lead times">
+</p>
+
+<p align="center"><b>Status: Canceled</b></p>
+<p align="center">
+  <img src="docs/leadtime_minis_canceled.png" width="85%" alt="Canceled lead times">
+</p>
+
+<p align="center"><b>Status: Invoiced</b></p>
+<p align="center">
+  <img src="docs/leadtime_minis_invoiced.png" width="85%" alt="Invoiced lead times">
+</p>
+
+<p align="center"><b>Status: Processing</b></p>
+<p align="center">
+  <img src="docs/leadtime_minis_processing.png" width="85%" alt="Processing lead times">
+</p>
+
+<p align="center"><b>Status: Shipped</b></p>
+<p align="center">
+  <img src="docs/leadtime_minis_shipped.png" width="85%" alt="Shipped lead times">
+</p>
+
+<p align="center"><b>Status: Approved</b> • <b>Status: Created</b></p>
+<p align="center">
+  <img src="docs/leadtime_minis_approved.png" width="45%" alt="Approved lead times">
+  <img src="docs/leadtime_minis_created.png"  width="45%" alt="Created lead times">
+</p>
+
+## 🗺️ Sellers vs Customers (states)
+<p align="center">
+  <img src="docs/states_polar.png" width="80%" alt="Sellers vs Customers across states">
+</p>
+
+
