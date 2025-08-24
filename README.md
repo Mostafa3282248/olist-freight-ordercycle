@@ -30,7 +30,7 @@ The primary continuous driver is product weight (kg). On the merged Olist datase
 ---
 
 ## 3) Data & Preparation
-
+  -** original dataset:**  https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs#stimulation-as-customers-product-categories-sellers
 - **Data scope:** Olist public datasets (2016–2018), ~**112k item-level rows** after joins.
 - **Key joins:** Orders ⇄ Items ⇄ Products ⇄ Customers ⇄ Sellers (+ translations).  
 - **Feature engineering:**  
